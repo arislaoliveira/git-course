@@ -31,3 +31,5 @@ git add
 para mudar novamente
 
 git restore --staged .\(nome do arquivo)
+
+git push 
