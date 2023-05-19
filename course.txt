@@ -1,0 +1,21 @@
+cmd 
+cd (colar caminho da pasta)
+
+git clone (link do repositório git)
+
+git init (iniciar repositório git)
+
+repositório no editor
+terminal 
+
+git status - status do arquivo 
+
+git add .\(nome do arquivo) - adicionar mudanças
+
+git diff - o que foi alterado
+
+git diff --staged (para arquivos que ja estao no staged)
+
+git commit -m "mensagem" - commitar mudanças
+
+
