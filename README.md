@@ -1,4 +1,2 @@
 
-# Curso Digital: Git/ Versionamento
-
-## Salvando alterações no Git
+# Curso Ada Codes: Git/ Versionamento

@@ -18,4 +18,16 @@ git diff --staged (para arquivos que ja estao no staged)
 
 git commit -m "mensagem" - commitar mudanças
 
+sync changes - envia para o repositório
 
+git log - histórico dos commits
+
+na parte da árvore (source control) é possível retornar a modificação 
+
+git restore .\(nome do arquivo) - retorna a ultima modificação salva 
+
+git add 
+
+para mudar novamente
+
+git restore --staged .\(nome do arquivo)
