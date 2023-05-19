@@ -41,3 +41,11 @@ git push origin main/master
 git diff origin/main - para ver o que vai ser alterado antes do git pull
 
 git pull - merge com outros códigos
+
+git branch testing - criar nova branch
+
+git log --oneline --decorate - mostra commit e head
+
+git checkout testing - ir para head testing
+
+.gitignore - ignorar
