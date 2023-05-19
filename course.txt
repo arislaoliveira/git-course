@@ -51,3 +51,7 @@ git checkout testing - ir para head testing
 .gitignore - ignorar
 
 git checkout main - voltar para main
+
+git branch - ver qual branch esta
+
+git merge testing
