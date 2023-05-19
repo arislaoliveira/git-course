@@ -49,3 +49,5 @@ git log --oneline --decorate - mostra commit e head
 git checkout testing - ir para head testing
 
 .gitignore - ignorar
+
+git checkout main - voltar para main
