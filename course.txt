@@ -16,6 +16,8 @@ git diff - o que foi alterado
 
 git diff --staged (para arquivos que ja estao no staged)
 
+(q para sair do git diff)
+
 git commit -m "mensagem" - commitar mudanças
 
 sync changes - envia para o repositório
@@ -32,8 +34,10 @@ para mudar novamente
 
 git restore --staged .\(nome do arquivo)
 
-git push
-
 git remote
 
 git push origin main/master
+
+git diff origin/main - para ver o que vai ser alterado antes do git pull
+
+git pull - merge com outros códigos
